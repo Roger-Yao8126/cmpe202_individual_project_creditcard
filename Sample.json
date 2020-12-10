@@ -1,0 +1,27 @@
+[
+  {
+    "CardNumber": 5413839939023822,
+    "ExpirationDate": "3/20/2030",
+    "NameOfCardholder": "Alice"
+  },
+  {
+    "CardNumber": 4123433434344334,
+    "ExpirationDate": "4/20/2030",
+    "NameOfCardholder": "Bob"
+  },
+  {
+    "CardNumber": 341034345466343,
+    "ExpirationDate": "5/20/2030",
+    "NameOfCardholder": "Eva"
+  },
+  {
+    "CardNumber": 6011343345316011,
+    "ExpirationDate": "6/20/2030",
+    "NameOfCardholder": "Richard"
+  },
+  {
+    "CardNumber": 0,
+    "ExpirationDate": "7/20/2030",
+    "NameOfCardholder": "Michael"
+  }
+  ]

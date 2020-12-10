@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+  <row>
+    <CardNumber>5413839939023822</CardNumber>
+    <CardType>MasterCard</CardType>
+    <Error>None</Error>
+  </row>
+  <row>
+    <CardNumber>4123433434344334</CardNumber>
+    <CardType>Visa</CardType>
+    <Error>None</Error>
+  </row>
+  <row>
+    <CardNumber>341034345466343</CardNumber>
+    <CardType>AmericanExpress</CardType>
+    <Error>None</Error>
+  </row>
+  <row>
+    <CardNumber>6011343345316011</CardNumber>
+    <CardType>Discover</CardType>
+    <Error>None</Error>
+  </row>
+  <row>
+    <CardNumber>0</CardNumber>
+    <CardType>Invalid</CardType>
+    <Error>InvalidCardNumber</Error>
+  </row>
+</root>

@@ -1,0 +1,27 @@
+[
+  {
+    "CardNumber": "5413839939023822",
+    "CardType": "MasterCard",
+    "Error": "None"
+  },
+  {
+    "CardNumber": "4123433434344334",
+    "CardType": "Visa",
+    "Error": "None"
+  },
+  {
+    "CardNumber": "341034345466343",
+    "CardType": "AmericanExpress",
+    "Error": "None"
+  },
+  {
+    "CardNumber": "6011343345316011",
+    "CardType": "Discover",
+    "Error": "None"
+  },
+  {
+    "CardNumber": "0",
+    "CardType": "Invalid",
+    "Error": "InvalidCardNumber"
+  }
+]

@@ -1,0 +1,6 @@
+CardNumber,CardType,Error
+5413839939023822,MasterCard,None
+4123433434344334,Visa,None
+341034345466343,AmericanExpress,None
+6011343345316011,Discover,None
+0,Invalid,InvalidCardNumber
